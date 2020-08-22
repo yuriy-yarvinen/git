@@ -64,5 +64,6 @@ https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-
 git branch - на какой ветке сейчас находимся
 git branch name - создает новую ветку с именем name
 git branch -d name - удаляет ветку с именем name
-git checkout branch name 
+git checkout branchname - переключается на ветку 
 git merge - сливает ветки
+git checkout -b branchname - создаёт новую ветку и переключается на неё
