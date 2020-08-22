@@ -65,5 +65,7 @@ git branch - на какой ветке сейчас находимся
 git branch name - создает новую ветку с именем name
 git branch -d name - удаляет ветку с именем name
 git checkout branchname - переключается на ветку 
-git merge - сливает ветки
+git merge branchname- сливает branchname с веткой на которой находится
 git checkout -b branchname - создаёт новую ветку и переключается на неё
+
+
