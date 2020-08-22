@@ -1,0 +1,13 @@
+git help - команда выводящая подсказки
+
+git help имя команды - инфо по конкретной команде
+
+git config --global user.name 'Yuriy Yarvinen' - задаем имя
+git config --global user.email 'yuriy.yarvi@gmail.com' - задаем емайл
+git config --global color.ui true - цветовая схема
+
+git init - инициализация гита
+
+git add - добавление файлов в гит
+git commit - сделать комит, снимок системы
+git status - выводить информацию о изменненых, добавленыйх, и не добавленных файлах, текущий статус репозитория
