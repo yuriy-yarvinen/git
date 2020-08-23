@@ -73,3 +73,7 @@ git pull - это git fetch and git merge
 git remote show origin - показывает информацию о состоянии удаленного репозитория
 git push --delete origin add-feature1 - удаление ветки из удаленного репозитория
 git branch -D add-feature1 - удаление локальной ветки со всеми изменениями
+
+git rebase - лучше merge
+git rebase -i - можно полностью изменить структуру репозитория, менять коммиты местами, переименовывать коммиты и тд
+git cherry-pick - вытащить отдельный коммит в ветку
