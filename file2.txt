@@ -1,4 +1,4 @@
-test
+some test (from branch add-feature1)
 some changes
 line from user2
 change from user1
