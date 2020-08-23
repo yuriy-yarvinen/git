@@ -1,2 +1,3 @@
 test
 some changes
+line from user2
