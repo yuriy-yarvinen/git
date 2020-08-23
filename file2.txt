@@ -1,2 +1,3 @@
 test master (from master)
 some changes
+line from user 2
