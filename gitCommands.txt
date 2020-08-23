@@ -68,4 +68,5 @@ git checkout branchname - переключается на ветку
 git merge branchname- сливает branchname с веткой на которой находится
 git checkout -b branchname - создаёт новую ветку и переключается на неё
 
-
+git branch -r - список удаленных веток
+git pull - это git fetch and git merge
