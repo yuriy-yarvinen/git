@@ -6,6 +6,10 @@ git config --global user.name 'Yuriy Yarvinen' - задаем имя
 git config --global user.email 'yuriy.yarvi@gmail.com' - задаем емайл
 git config --global color.ui true - цветовая схема
 
+git config merge.ff only - задает только fast forward слияние
+
+https://git-scm.com/docs/merge-config
+
 git init - инициализация гита
 
 git add - добавление файлов
