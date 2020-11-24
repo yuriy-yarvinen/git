@@ -5,6 +5,7 @@ git help имя команды - инфо по конкретной команд
 git config --global user.name 'Yuriy Yarvinen' - задаем имя
 git config --global user.email 'yuriy.yarvi@gmail.com' - задаем емайл
 git config --global color.ui true - цветовая схема
+git config --global credential.helper "cache --timeout=7200" - задаем хранение пароля и логина в кеше на два часа
 
 git config merge.ff only - задает только fast forward слияние
 
